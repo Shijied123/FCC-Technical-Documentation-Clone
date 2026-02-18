@@ -11,6 +11,6 @@ It features a navbar and a main section built from HTML, styled to be scrollable
 - Flexbox layout in Desktop 
 
 ## Author
-Created by Shijie Dong
-Year: 2026 
-- 
+
+Created by **Shijie Dong**
+Year: **2026**
