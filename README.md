@@ -13,4 +13,5 @@ It features a navbar and a main section built from HTML, styled to be scrollable
 ## Author
 
 Created by **Shijie Dong**
+
 Year: **2026**
